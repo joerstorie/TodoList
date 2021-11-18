@@ -1,0 +1,22 @@
+.Input {
+    border-width: 3px;
+    border-color: goldenrod;
+    font-size: 20px;
+} 
+
+.TodoInput {
+    width: 300px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-left: 1px;
+}
+
+.AddButton {
+    height: 37px;
+    width: 37px;
+    background-color: rgba(224, 178, 178, 0.671);
+    font-weight: bold;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}

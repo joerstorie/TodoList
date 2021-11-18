@@ -1,0 +1,15 @@
+.Item-action {
+    background-color: rgba(224, 178, 178, 0.671);
+    color: rgb(0, 0, 0);
+    width: 30px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 21px;
+    margin-left: 10px;
+}
+
+.Item {
+    font-size: 22px;
+    font-weight: bold;
+    color:  rgb(0, 0, 0);
+}
